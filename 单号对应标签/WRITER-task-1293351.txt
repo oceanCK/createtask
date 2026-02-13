@@ -1,0 +1,54 @@
+  id: 1141827997001293351
+  workitem_type_id: 1141827997001001449
+  app_id: 1
+  name: 【剧情插图】R01_E00_S03_Art01少年罗塞蒂插图1
+  description: <p>需求详见文档：<a href="https://herogames.feishu.cn/wiki/WEegwcpjpi2n4ak69hCcS9o2nth?from=from_copylink&amp;sheet=4ada62" target="_blank" rel="noopener">https://herogames.feishu.cn/wiki/WEegwcpjpi2n4ak69hCcS9o2nth?from=from_copylink&amp;sheet=4ada62</a></p>
+  workspace_id: 41827997
+  creator: 郭静
+  created: 2026-01-20 20:25:29
+  modified: 2026-01-20 20:26:01
+  status: status_7
+  step:
+  owner: 郭静;
+  cc:
+  begin: None
+  due: None
+  size: None
+  priority: P1
+  developer:
+  iteration_id: 0
+  test_focus:
+  type:
+  source:
+  module:
+  version:
+  completed: None
+  category_id: 1141827997001003489
+  path: 1141827997001293350::1141827997001293351:
+  parent_id: 1141827997001293350
+  children_id: |
+  ancestor_id: 1141827997001293350
+  level: 1
+  business_value: None
+  effort: 26
+  effort_completed: 0
+  exceed: 0
+  remain: 26
+  release_id: 0
+  bug_id: None
+  templated_id: 1141827997001002996
+  created_from: None
+  feature:
+  label:
+  progress: 0
+  is_archived: 0
+  tech_risk: None
+  flows: None
+  custom_field_one:
+  custom_field_two: 郭静
+  custom_field_three: 五个
+  custom_field_four:
+  custom_field_five:
+  custom_field_six:
+  custom_field_seven:
+  custom_field_eight:

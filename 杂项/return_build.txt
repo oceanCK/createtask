@@ -1,0 +1,9 @@
+飞书多维表格层面：自动化按钮的HTTP请求功能：
+
+主要支持发送 JSON 格式的请求体
+不支持 multipart/form-data 格式（文件上传必需）
+无法处理二进制文件数据
+
+https://herogames.feishu.cn/record/TInjrdisNeeuPVcGpOEctTqWncg
+
+<img src="https://herogames.feishu.cn/record/TInjrdisNeeuPVcGpOEctTqWncg" />   //图裂开了

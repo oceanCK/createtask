@@ -1,0 +1,72 @@
+  id: 1141827997001219881
+  title: 【编辑器功能】加载场景预制体时，预制体位置发生偏移
+  description: <h2><span style="font-size: 18px;">BUG详细描述</span></h2><p>场景运行时，加载场景预制体，预制体位置发生偏移</p><p>原坐标位置(0,0,0)，加载后变为(-15.6,0,0)</p><p class="tox-clear-float"><img width="80%" src="/tfl/captures/2026-01/tapd_41827997_base64_1768187149_772.png"  /></p><p>预期结果：</p><p>场景预制体保持在原点</p><p class="tox-clear-float"><img width="80%" src="/tfl/captures/2026-01/tapd_41827997_base64_1768187364_805.png"  /></p><p><br  /></p>
+  priority: urgent
+  severity: serious
+  module: 
+  status: verified
+  reporter: 陈文媛外编
+  created: 2026-01-12 11:10:59
+  bugtype: 实现与需求不符
+  resolved: 2026-01-13 11:54:18
+  closed: 
+  modified: 2026-01-13 11:55:55
+  lastmodify: 丁师兄
+  auditer: 
+  de: 
+  fixer: 丁师兄
+  version_test: 
+  version_report: 
+  version_close: 
+  version_fix: 
+  baseline_find: 
+  baseline_join: 
+  baseline_close: 
+  baseline_test: 
+  sourcephase: 
+  te: 陈文媛外编;
+  current_owner: 陈文媛外编;
+  iteration_id: 1141827997001002874
+  resolution: fixed
+  source: 
+  originphase: 策划验收
+  confirmer: 
+  milestone: 
+  participator: 丁师兄
+  closer: 
+  platform: 
+  os: 
+  testtype: 
+  testphase: 
+  frequency: 
+  cc: 
+  regression_number: 0
+  flows: new|resolved|verified
+  feature: 
+  testmode: 
+  estimate: 
+  issue_id: 
+  created_from: 
+  release_id: 
+  verify_time: 2026-01-13 11:55:56
+  reject_time: 
+  reopen_time: 
+  audit_time: 
+  suspend_time: 
+  due: 
+  begin: 
+  deadline: 
+  in_progress_time: 
+  assigned_time: 
+  template_id: 1141827997001002993
+  story_id: 
+  label: 
+  size: 
+  effort: 
+  effort_completed: 0
+  exceed: 0
+  remain: 0
+  secret_root_id: 0
+  custom_field_one: Trunk
+  priority_label: urgent
+  workspace_id: 41827997

@@ -1,0 +1,31 @@
+{
+  "tapd": {
+    "api_user": "gNxpkwrr",
+    "api_password": "86EE396F-6733-051C-3BA9-1243A2E8AA36",
+    "workspace_id": "41827997"
+  },
+  "feishu": {
+    "app_id": "cli_a9edfc60bef89bd2",
+    "app_secret": "4HJ12IX5jGGLFsa8E7ciHeHF3jNeWVwf",
+    "webhook_port": 8080,
+    "webhook_path": "/webhook/feishu",
+    "verification_token": ""
+  },
+  "workitem_types": {
+    "FX": "1141827997001001460",
+    "PREFAB": "1141827997001001459",
+    "DD": "1141827997001001453",
+    "QA": "1141827997001001452",
+    "UI": "1141827997001001451",
+    "DIRECTOR": "1141827997001001450",
+    "WRITER": "1141827997001001449",
+    "AUDIO": "1141827997001001442",
+    "CG": "1141827997001001441",
+    "ARTS": "1141827997001001440",
+    "ASSET": "1141827997001001439",
+    "EXCEL": "1141827997001001438",
+    "PROGRAM": "1141827997001001437",
+    "FEATURE": "1141827997001001436",
+    "Epic": "1141827997001001435"
+  }
+}

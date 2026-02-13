@@ -1,0 +1,57 @@
+  id: 1141827997001293672
+  workitem_type_id: 1141827997001001437
+  app_id: 1
+  name: 新增新框架ComCostBtn
+  description: <div data-lark-html-role="root"><span data-eleid="3">新增新框架ComCostBtn</span></div>
+  workspace_id: 41827997
+  creator: 王斌山
+  created: 2026-01-21 20:17:15
+  modified: 2026-01-21 20:17:15
+  status: status_16
+  step:
+  owner: 肖榆涛;
+  cc:
+  begin: 2026-01-21
+  due: 2026-01-22
+  size: None
+  priority: P1
+  developer:
+  iteration_id: 1141827997001002877
+  test_focus:
+  type:
+  source:
+  module:
+  version:
+  completed: None
+  category_id: 1141827997001003442
+  path: 1141827997001293672:
+  parent_id: 0
+  children_id: |
+  ancestor_id: 1141827997001293672
+  level: 0
+  business_value: None
+  effort: 1
+  effort_completed: 0
+  exceed: 0
+  remain: 1
+  release_id: 0
+  bug_id: None
+  templated_id: 1141827997001002998
+  created_from: None
+  feature:
+  label:
+  progress: 0
+  is_archived: 0
+  tech_risk: None
+  flows: None
+  custom_field_one: 杨壮
+  custom_field_two:
+  custom_field_three:
+  custom_field_four:
+  custom_field_five:
+  custom_field_six:
+  custom_field_seven:
+  custom_field_eight:
+  secret_root_id: 0
+  progress_manual: 0
+  priority_label: P1

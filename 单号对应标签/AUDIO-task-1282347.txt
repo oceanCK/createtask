@@ -1,0 +1,54 @@
+id: 1141827997001282347
+  workitem_type_id: 1141827997001001442
+  app_id: 1
+  name: 【Demo界面开发】音频资源替换
+  description: <div data-lark-html-role="root"><p class="tox-clear-float"><img src="/tfl/captures/2025-11/tapd_41827997_base64_1762426543_960.png" width="80%"  /></p><p>需要将主题曲</p><p class="tox-clear-float"><img src="/tfl/captures/2025-11/tapd_41827997_base64_1762426560_183.png"  />正确替换</p><p>音乐开始：</p><p>1.玩家进入登录界面时</p><p>音乐停止：</p><p>1.玩家点击登录按钮后</p></div>        
+  workspace_id: 41827997
+  creator: 阿臻
+  created: 2025-11-06 18:54:39
+  modified: 2025-11-18 14:36:41
+  status: status_18
+  step:
+  owner: 阿臻;
+  cc:
+  begin: 2025-08-14
+  due: 2025-11-14
+  size: None
+  priority: P0
+  developer:
+  iteration_id: 0
+  test_focus:
+  type:
+  source:
+  module:
+  version:
+  completed: 2025-11-18 14:36:41
+  category_id: 1141827997001003461
+  path: 1141827997001272931::1141827997001282347:
+  parent_id: 1141827997001272931
+  children_id: |
+  ancestor_id: 1141827997001272931
+  level: 1
+  business_value: None
+  effort: None
+  effort_completed: 0
+  exceed: 0
+  remain: 0
+  release_id: 0
+  bug_id: None
+  templated_id: 1141827997001002982
+  created_from: None
+  feature:
+  label:
+  progress: 100
+  is_archived: 0
+  tech_risk: None
+  flows: None
+  custom_field_one: 杨壮
+  custom_field_two:
+  custom_field_three:
+  custom_field_four:
+  custom_field_five:
+  custom_field_six:
+  custom_field_seven:
+  custom_field_eight:

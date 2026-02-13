@@ -1,0 +1,41 @@
+
+{
+    "body": "{\"status\":422,\"data\":\"\",\"info\":\"name is required.\",\"meta\":{\"request_id\":\"67ea74ecc02d1aff437041d44361fd20\"}}",
+    "headers": {
+        "Tapd-Request-Id": "67ea74ecc02d1aff437041d44361fd20",
+        "Tapd-Request-Name": "stories/_save_new",
+        "X-Ratelimit-Remaining": "260",
+        "Tapd-Client-Id": "gNxpkwrr",
+        "P3p": "CP=\"NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM\"",
+        "Tapd-Bg-Id": "20480741",
+        "X-Ratelimit-Limit": "300",
+        "Date": "Fri, 23 Jan 2026 06:50:40 GMT",
+        "Set-Cookie": "tapdsession=17691510402f3c5dde86660657f9149def0116c0162662be58b8a26d79814ab44eeea83efa; expires=Fri, 30-Jan-2026 06:50:40 GMT; Max-Age=604800; path=/; domain=.tapd.cn; HttpOnly",
+        "Content-Type": "application/json; charset=utf-8",
+        "Connection": "keep-alive",
+        "Tapd-Workspace-Id": "41827997",
+        "X-Powered-By": "PHP/7.2.25"
+    },
+    "status_code": 422
+}
+{
+    "body": "{\"status\":422,\"data\":\"\",\"info\":\"name is required.\",\"meta\":{\"request_id\":\"f3be9c19d4be548851721ef9bac5a35d\"}}",
+    "headers": {
+        "Set-Cookie": "tapdsession=17691521331abc1a29ac7136316aeb8c616802729fa6a827e7c530f150ce4e217c510b4b03; expires=Fri, 30-Jan-2026 07:08:53 GMT; Max-Age=604800; path=/; domain=.tapd.cn; HttpOnly",
+        "Tapd-Client-Id": "gNxpkwrr",
+        "Tapd-Request-Name": "stories/_save_new",
+        "Tapd-Workspace-Id": "41827997",
+        "X-Ratelimit-Limit": "300",
+        "Date": "Fri, 23 Jan 2026 07:08:53 GMT",
+        "P3p": "CP=\"NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM\"",
+        "Content-Type": "application/json; charset=utf-8",
+        "X-Ratelimit-Remaining": "267",
+        "Tapd-Bg-Id": "20480741",
+        "X-Powered-By": "PHP/7.2.25",
+        "Tapd-Request-Id": "f3be9c19d4be548851721ef9bac5a35d",
+        "Connection": "keep-alive"
+    },
+    "status_code": 422
+}
+
+name 问题

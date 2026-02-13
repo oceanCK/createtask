@@ -1,0 +1,54 @@
+  id: 1141827997001292775
+  workitem_type_id: 1141827997001001451
+  app_id: 1
+  name: GUI规范相关通用提单
+  description: <p>GUI规范相关通用提单</p>
+  workspace_id: 41827997
+  creator: 王斌山
+  created: 2026-01-15 19:53:46
+  modified: 2026-01-15 19:53:53
+  status: status_37
+  step:
+  owner: 五个;王俊杰junjie.wang01;
+  cc:
+  begin: None
+  due: None
+  size: None
+  priority: P1
+  developer:
+  iteration_id: 1141827997001002874
+  test_focus:
+  type:
+  source:
+  module:
+  version:
+  completed: None
+  category_id: -1
+  path: 1141827997001292775:
+  parent_id: 0
+  children_id: |
+  ancestor_id: 1141827997001292775
+  level: 0
+  business_value: None
+  effort: 30
+  effort_completed: 0
+  exceed: 0
+  remain: 30
+  release_id: 0
+  bug_id: None
+  templated_id: 1141827997001002982
+  created_from: None
+  feature:
+  label:
+  progress: 0
+  is_archived: 0
+  tech_risk: None
+  flows: None
+  custom_field_one:
+  custom_field_two: 黄小聪
+  custom_field_three: 王俊杰junjie.wang01
+  custom_field_four:
+  custom_field_five:
+  custom_field_six:
+  custom_field_seven:
+  custom_field_eight:

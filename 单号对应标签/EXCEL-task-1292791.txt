@@ -1,0 +1,54 @@
+  id: 1141827997001292791
+  workitem_type_id: 1141827997001001438
+  app_id: 1
+  name: 【剧情编辑器】配置相关问题 - 【策划】配置单
+  description: <h2 style="line-height: 1.2;"><span style="font-family: &#39;Microsoft YaHei&#39;, &#39;Helvetica Neue&#39;, &#39;PingFang SC&#39;, sans-serif; color: #0055b2;"><strong>功能内容描述</strong></span><br  /></h2><p><span style="font-family: &#39;Microsoft YaHei&#39;, &#39;Helvetica Neue&#39;, &#39;PingFang SC&#39;, sans-serif;">1、跨预制体调用物体</span></p><p><span style="font-family: &#39;Microsoft YaHei&#39;, &#39;Helvetica Neue&#39;, &#39;PingFang SC&#39;, sans-serif;">2、timeline功能迁移</span></p><p>3、修改相机蓝图节点增加调用通用镜头动画参数</p><p>4、wwise音频导入与调用</p><p><span style="font-family: &#39;Microsoft YaHei&#39;, &#39;Helvetica Neue&#39;, &#39;PingFang SC&#39;, sans-serif;"><br  /></span></p><h2 style="line-height: 1.2;"><span style="font-family: &#39;Microsoft YaHei&#39;, &#39;Helvetica Neue&#39;, &#39;PingFang SC&#39;, sans-serif; color: #0055b2;"><strong>文档链接</strong></span></h2><p><a href="https://herogames.feishu.cn/sheets/Wjd1sjwOnhsPo1tzsIqcFuuknSc?sheet=ec63ec" target="_blank">‌​‬⁠‌​​‌​‌‍​‌​​​⁠​​‍⁠​​​​​​⁠‬​⁠​​​                                 ​‬‬⁠​‌​‬​⁠‬【编辑器优化】配置问题 - 英雄游戏云文档</a></p>
+  workspace_id: 41827997
+  creator: 陈文媛外编
+  created: 2026-01-15 21:31:52
+  modified: 2026-01-15 21:31:52
+  status: status_16
+  step:
+  owner: 丁师兄;
+  cc:
+  begin: 2025-12-01
+  due: 2026-03-31
+  size: None
+  priority: P0
+  developer: 丁师兄
+  iteration_id: 1141827997001002874
+  test_focus:
+  type:
+  source:
+  module:
+  version:
+  completed: None
+  category_id: 1141827997001003441
+  path: 1141827997001292782::1141827997001292791:
+  parent_id: 1141827997001292782
+  children_id: |
+  ancestor_id: 1141827997001292782
+  level: 1
+  business_value: None
+  effort: None
+  effort_completed: 0
+  exceed: 0
+  remain: 0
+  release_id: 0
+  bug_id: None
+  templated_id: 1141827997001002983
+  created_from: None
+  feature:
+  label:
+  progress: 0
+  is_archived: 0
+  tech_risk: None
+  flows: None
+  custom_field_one: 杨壮
+  custom_field_two: Yukii;陈文媛外编
+  custom_field_three:
+  custom_field_four:
+  custom_field_five:
+  custom_field_six:
+  custom_field_seven:
+  custom_field_eight:

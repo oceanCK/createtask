@@ -1,0 +1,54 @@
+id: 1141827997001281605
+  workitem_type_id: 1141827997001001440
+  app_id: 1
+  name: 【图片模糊处理】调整游戏内2D/球形图的输出资源以匹配安卓打包需求 - 【美术】场景美术图资源重新输出
+  description: <p><br  /></p><ol><li><div><strong>项目概述</strong></div><ul><li>简要描述项目背景、目标和整体视觉风格。包括游戏类型、 目标受众等基本信息。</li></ul></li><li><div><strong>角色设计（如有）</strong></div><ul><li>描述所需角色的数量、类型、性格特征、外观风 格等。包括主角、配角及NPC的详细需求。</li></ul></li><li><div><strong>环境和场景（如有）</strong></div><ul><li>详细介绍游戏中需要设计的环境类型、场景风格、颜色方案等。包括自然景观、城市环境、室内场景等。</li></ul></li><li><div><strong>UI/UX设计</strong></div><ul><li>描述用户界面（UI）和用户体验（UX）设计的基本要求。包括菜单、图标、字体、颜色、界面布局等。</li></ul></li><li><div><strong>动画和特效</strong></div><ul><li>列出所需的动画类型和特效需求。包括角色动画、环境动态效果、技能特效等。</li></ul></li><li><div><strong>道具和装备（ 如有）</strong></div><ul><li>详细说明游戏中所需的道具和装备设计。包括武器、防具、消耗品等的视觉风格和功能描述。</li></ul></li><li><div><strong>贴图和材质</strong></div><ul><li>描述所需的贴图和材质类型，以及它们在游戏中的应用。包括环境贴图、角色材质等。</li></ul></li><li><div><strong>音频需求</strong></div><ul><li>简述游戏所需的音效和背景音乐风格、类型。虽主要关注美术资产，但音频元素对于整体美术风格 的融合同样重要。</li></ul></li><li><div><strong>技术要求</strong></div><ul><li>指出美术资产的技术规格和制作要求。包括分辨率、文件格式 、优化标准等。</li></ul></li><li><div><strong>交付时间表</strong></div><ul><li>提供美术资产的交付时间表。包括每个阶段的开始和结束日期 ，以及重要里程碑。</li></ul></li></ol>
+  workspace_id: 41827997
+  creator: Yukii
+  created: 2025-11-03 23:20:58
+  modified: 2025-11-03 23:21:00
+  status: planning
+  step: step_1001820_22
+  owner: 五个;
+  cc:
+  begin: 2025-11-03
+  due: 2025-11-04
+  size: None
+  priority: P0
+  developer:
+  iteration_id: 1141827997001002748
+  test_focus:
+  type:
+  source:
+  module:
+  version:
+  completed: None
+  category_id: 1141827997001003441
+  path: 1141827997001281601::1141827997001281604::1141827997001281605:
+  parent_id: 1141827997001281604
+  children_id: |
+  ancestor_id: 1141827997001281601
+  level: 2
+  business_value: None
+  effort: None
+  effort_completed: 0
+  exceed: 0
+  remain: 0
+  release_id: 0
+  bug_id: None
+  templated_id: 1141827997001002982
+  created_from: None
+  feature:
+  label:
+  progress: 0
+  is_archived: 0
+  tech_risk: None
+  flows: None
+  custom_field_one: 杨壮
+  custom_field_two:
+  custom_field_three:
+  custom_field_four:
+  custom_field_five:
+  custom_field_six:
+  custom_field_seven:
+  custom_field_eight:

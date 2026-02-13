@@ -1,0 +1,54 @@
+  id: 1141827997001284785
+  workitem_type_id: 1141827997001001450
+  app_id: 1
+  name: 【CE前优化】数值比拼SlateA调整为闭眼+对话
+  description: <h2 style="line-height: 1.2;"><span style="font-family: &#39;Microsoft YaHei&#39;, &#39;Helvetica Neue&#39;, &#39;PingFang SC&#39;, sans-serif; color: #0055b2;"><strong>功能说明：</strong></span></h2><p>CE前针对部分功能逻辑调整优化。</p><p>具体信息查对 应子单描述。</p><p><br  /></p>
+  workspace_id: 41827997
+  creator: Yukii
+  created: 2025-11-21 17:05:34
+  modified: 2025-11-25 18:47:58
+  status: status_18
+  step:
+  owner: 鱼加;狮童;
+  cc:
+  begin: 2025-11-20
+  due: 2025-11-26
+  size: None
+  priority: P0
+  developer:
+  iteration_id: 0
+  test_focus:
+  type:
+  source:
+  module:
+  version:
+  completed: 2025-11-25 18:47:58
+  category_id: 1141827997001003464
+  path: 1141827997001284652::1141827997001284785:
+  parent_id: 1141827997001284652
+  children_id: |
+  ancestor_id: 1141827997001284652
+  level: 1
+  business_value: None
+  effort: None
+  effort_completed: 0
+  exceed: 0
+  remain: 0
+  release_id: 0
+  bug_id: None
+  templated_id: 1141827997001002997
+  created_from: None
+  feature:
+  label:
+  progress: 100
+  is_archived: 0
+  tech_risk: None
+  flows: None
+  custom_field_one: 杨壮
+  custom_field_two:
+  custom_field_three:
+  custom_field_four:
+  custom_field_five:
+  custom_field_six:
+  custom_field_seven:
+  custom_field_eight:
